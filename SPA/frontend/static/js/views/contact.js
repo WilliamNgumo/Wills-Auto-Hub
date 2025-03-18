@@ -10,4 +10,4 @@ export default class extends AbstractView {
             <h1 class="brother"> This Is contact Us </h1>
         `;
     };
-}
+} 
